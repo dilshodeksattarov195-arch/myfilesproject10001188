@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailuncrypt",
+        "uuid": 6950988,
+        "checksum": "a71cso"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
